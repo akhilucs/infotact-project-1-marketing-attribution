@@ -34,11 +34,6 @@ Raw dataset files are **not uploaded to this repository** as per project instruc
 - Merged datasets for analysis
 - Previewed event-level data
 
-## How to Run
-1. Download the required datasets separately.
-2. Place all dataset files in the same folder as the notebook.
-3. Open `Project1.ipynb` in Google Colab or Jupyter Notebook.
-4. Run all cells in order.
 
 ## GitHub Workflow
 This repository is maintained with issue tracking, commits, and project progress as required by the internship instructions.
