@@ -1,6 +1,6 @@
 # Project 1: Multi-Touch Marketing Attribution & ROI Dashboard
 
-This project is part of the Infotact Technical Internship Program - Advanced Data Analytics Project.
+This project is part of the Infotact Technical Internship Program - Advanced Data Analytics Project
 
 ## Objective
 The goal of this project is to analyze marketing, customer, product, transaction, and event data to support attribution analysis and ROI measurement.
